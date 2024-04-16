@@ -1,3 +1,4 @@
+import React from "react";
 import "../App.css";
 import "./Hero.css";
 import { FaHeart } from "react-icons/fa";
