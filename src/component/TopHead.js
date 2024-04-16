@@ -33,7 +33,7 @@ function TopHead() {
               <a href="#about">About</a>
             </li>
             <li>
-              <a href="#Project">Contact</a>
+              <a href="#project">Contact</a>
             </li>
           </ul>
         </div>
