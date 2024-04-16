@@ -50,7 +50,7 @@ function TopHead() {
               </a>
             </li>
             <li>
-              <a href="https://github.com/himans17"  className="instagram" traget="_blank">
+              <a href="https://github.com/himans17"  className="instagram">
                 <FaGithub />
               </a>
             </li>
