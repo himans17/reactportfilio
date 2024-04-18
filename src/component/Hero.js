@@ -90,7 +90,7 @@ function Hero() {
                       <h5 className="text-light ms-2">
                         SANDLUS INFO SOLUTIONS
                       </h5>
-                      <h6 className="text-light ms-2">Oct 2024 - March 2024</h6>
+                      <h6 className="text-light ms-2">Oct 2023 - March 2024</h6>
                       <ul className="text-light">
                         <li>
                           Design and develop responsive and interactive user
