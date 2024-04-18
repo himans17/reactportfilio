@@ -401,7 +401,7 @@ function Hero() {
           <div className="row">
             <div className="col-md-12 my-2">
               <h5 className="text-light text-center py-2">
-                Designer With{" "}
+                Designed With{" "}
                 <span className="love">
                   <FaHeart />
                 </span>{" "}
